@@ -1,0 +1,15 @@
+{
+    "name": "nshid/webgis-php",
+    "require": {
+        "joshcam/mysqli-database-class": "*",
+        "josantonius/session": "^1.1",
+        "verot/class.upload.php": "dev-master"
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "ananta",
+            "email": "anantakwarta1234@gmail.com"
+        }
+    ]
+}
